@@ -9,7 +9,7 @@ If the app does not open since the app is unsigned, type:
 xattr -cr 
 ```
 with a leading space then drop the app into the terminal window (zsh)                                                                          
-If you get the “cannot verify developer” bullshit, you can just right-click the app → Open → Open.
+If you get the “cannot verify developer” stuff, then, you can just right-click the app → Open → Open then run the command again.
 
 # Info
 ```text
