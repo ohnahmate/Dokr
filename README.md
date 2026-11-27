@@ -1,6 +1,8 @@
 # Dokr
 MacOS Dock Utility that can change various hidden settings in the dock and normal ones.
 
+Unzip the .zip then proceed.
+
 ## Xattr Command:
 If the app does not open since the app is unsigned, type:
 ```zsh
